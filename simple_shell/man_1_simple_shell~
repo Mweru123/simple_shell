@@ -1,0 +1,9 @@
+.TH SIMPLE_SHELL 1 "20 August 2021"
+.SH
+.B simple shell
+- command language interpreter
+.SH SYNOPSIS
+.B Simple Shell
+.SH DESCRIPTION
+is a shell command interpreter that executes command read from the standard input.
+.B hsh
